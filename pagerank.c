@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------------
-// GraphBLAS/Demo/Program/bfs_lehel.c: breadth first search using mxv with a mask
+// GraphBLAS/Demo/Program/pagerank.c: Pagerank algorithm with damping factor.
 //------------------------------------------------------------------------------
 
 #include "demos.h"
